@@ -34,9 +34,9 @@ Commands for event schedule feature
 
 - `events` - Broadcasts the events.
 
-- `addevent [event], [desc], [date]` - Adds events to the events schedule list. (Requires **#** or above)
+- `addevent [event], [desc], [date]` - Adds events to the events schedule list. (Requires **#**)
 
-- `remevent [event]` - Removes events from the events schedule list. (Requires **#** or above)
+- `remevent [event]` - Removes events from the events schedule list. (Requires **#**)
 
 Sample Teams Commands
 ==============
@@ -45,9 +45,9 @@ Commands for sample teams feature
 
 - `sampleteams` - Broadcasts the sample teams.
 
-- `teamadd [author], [link], [mon 1, mon 2...]` - Adds teams to the sampleteams. (Requires **#** or above)
+- `teamadd [author], [link], [mon 1, mon 2...]` - Adds teams to the sampleteams. (Requires **#**)
 
-- `remteam [link]` - Removes teams from the sample teams. (Requires **#** or above)
+- `remteam [link]` - Removes teams from the sample teams. (Requires **#**)
 
 
 
