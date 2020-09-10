@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+This is the current command list for Seedy Bot.
 
-You can use the [editor on GitHub](https://github.com/Draco-123/Seedy-Bot/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Important Stuff You Should Know:
+--------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Seedy Bot primarily uses the command character `-`.
+2. `[ ]` text enclosed in brackets means that it is a necessary argument/option, and must be specified **always**.
+3. `( )` text enclosed in parenthesis means that it is optional, and the command would work regardless it was specified or not, albeit in a different manner, to be more specific, it'd resort to the _default_ options.
+4. All of the commands mentioned below are to be **preceded by `-`**, for Seedy Bot to recognize them as commands.
 
-### Markdown
+Tournament Commands
+=============
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These are the commands with tour related functionality. 
 
-```markdown
-Syntax highlighted code block
+- `runtour [minutes]` - The tournament is automatically started after _n_ minutes. (Requires **+** or above). 
 
-# Header 1
-## Header 2
-### Header 3
+- `monothreat (type)` - A monothreat tournament is created. (Requires **+** or above)
 
-- Bulleted
-- List
+- `monotype` - A monotype tournament is created. (Requires **+** or above) 
 
-1. Numbered
-2. List
+- `STABmons` - A stabmons tournament is created. (Requires **+** or above)
 
-**Bold** and _Italic_ and `Code` text
+- `AAA` - A almost any ability tournament is created. (Requires **+** or above)
 
-[Link](url) and ![Image](src)
-```
+- `ubers` - A ubers tournament is created. (Requires **+** or above)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- `AAA` - A almost any ability tournament is created. (Requires **+** or above)
 
-### Jekyll Themes
+Event Schedule Commands
+==============
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Draco-123/Seedy-Bot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Commands for event schedule feature
 
-### Support or Contact
+- `events` - Broadcasts the events.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- `addevent [event], [desc], [date]` - Adds events to the events schedule list. (Requires **#**)
+
+- `remevent [event]` - Removes events from the events schedule list. (Requires **#**)
+
+Sample Teams Commands
+==============
+
+Commands for sample teams feature
+
+- `sampleteams` - Broadcasts the sample teams.
+
+- `teamadd [author], [link], [mon 1, mon 2...]` - Adds teams to the sampleteams. (Requires **#**)
+
+- `remteam [link]` - Removes teams from the sample teams. (Requires **#**)
