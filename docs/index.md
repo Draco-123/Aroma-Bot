@@ -25,8 +25,6 @@ These are the commands with tour related functionality.
 
 - `ubers` - A ubers tournament is created. (Requires **+** or above)
 
-- `AAA` - A almost any ability tournament is created. (Requires **+** or above)
-
 Event Schedule Commands
 ==============
 
