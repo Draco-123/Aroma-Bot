@@ -1,4 +1,4 @@
-This is the current command list for Seedy Bot.
+<center>This is the current command list for Seedy Bot.
 
 Important Stuff You Should Know:
 --------------------------------
@@ -46,3 +46,4 @@ Commands for sample teams feature
 - `teamadd [author], [link], [mon 1, mon 2...]` - Adds teams to the sampleteams. (Requires **#**)
 
 - `remteam [link]` - Removes teams from the sample teams. (Requires **#**)
+</center>
