@@ -53,3 +53,9 @@ Commands for league features
 - `addleader [type] [username]` - Adds a member to the Gym Leaders Roster. (Requires **#**)
 
 - `fourseasons` - Broadcasts the Four Seasons Roster.
+
+Other Commands
+==============
+
+- `rank [username]` - Broadcasts the ladder info of that username.
+- `guide` - Generates a Hastebin link of the commands made by Sparkychild and sends the link for Aroma Bot Commands.
