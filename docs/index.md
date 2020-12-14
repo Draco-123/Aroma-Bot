@@ -18,7 +18,7 @@ These are the commands with tour related functionality.
 
 - `monothreat (type)` - A monothreat tournament is created. (Requires **+** or above)
 
-- `monotype (tier)` - A monotype tournament is created. (Requires **+** or above) 
+- `monotype [tier]` - A monotype tournament is created. (Requires **+** or above) 
 
 Event Schedule Commands
 ==============
